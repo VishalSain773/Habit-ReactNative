@@ -1,0 +1,1 @@
+export const uId = 'user_id'

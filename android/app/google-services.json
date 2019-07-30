@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949967617820",
+    "firebase_url": "https://habit-ceb86.firebaseio.com",
+    "project_id": "habit-ceb86",
+    "storage_bucket": "habit-ceb86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949967617820:android:558b1e37ba8f6c16",
+        "android_client_info": {
+          "package_name": "com.habit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949967617820-hs6r4aavvnf60h831csj3psauhgahj3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.habit",
+            "certificate_hash": "4666b1855f330d63651f8a31152571e0f93cef4e"
+          }
+        },
+        {
+          "client_id": "949967617820-ad03db95vcv7d6qiigak2tjse122hbc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzIahG_emeB8WZthFyS46qc9CFBkfEtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949967617820-ad03db95vcv7d6qiigak2tjse122hbc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
